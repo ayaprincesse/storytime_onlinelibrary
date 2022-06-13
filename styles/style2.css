@@ -1,0 +1,17 @@
+.suinput{
+	padding : 10px;
+	margin : 5px;
+}
+.subtn{
+	color : white;
+	background-color : maroon;
+	border-radius : 20px;
+	padding: 10px 10px;
+	margin : 10px;
+}
+main{
+	padding : 20px;
+	background-color: rgb(240, 230, 140 ,0.7);
+	width:50%;
+	margin: 0% 10% 10% 22%;
+}

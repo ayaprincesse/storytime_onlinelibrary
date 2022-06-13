@@ -1,0 +1,39 @@
+.userlistebtn{
+	box-shadow:0px 1px 2px grey;
+	border : 0 ;
+	border-radius : 20px;
+	padding: 10px 10px;
+	background-color : rgb(240, 230, 140);
+}
+table {
+
+border-collapse:seperate; 
+border-spacing:1em;
+align : right;
+}
+.tablerecherche{
+	margin : 20px;
+	margin-left : 28%;
+}
+tr {
+   width : 700px;
+	display : inline-block;
+  border: 1pt solid grey;
+   font-size : 20px;
+   font-weight : normal;
+   border-radius : 15px;
+    box-shadow:0px 1px 5px grey;
+	margin : 20px;
+	margin-left : 28%;
+	padding : 10px;
+	
+}
+div#welcome{
+	display : inline-block;
+}
+div#recherche {
+	display: inline-block;
+    margin-left: 35%;
+}
+.citation
+{color : white;}

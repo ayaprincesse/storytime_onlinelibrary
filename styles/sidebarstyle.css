@@ -1,0 +1,41 @@
+/* The side navigation menu */
+.sidenav {
+  height: 55%; /* 100% Full-height */
+  width: 15%; /* 0 width - change this with JavaScript */
+  position: fixed; /* Stay in place */
+  z-index: 1; /* Stay on top */
+  top: 26%; /* Stay at the top */
+  left: 0;
+  background-color: #556B2F; 
+  overflow-x: hidden; /* Disable horizontal scroll */
+  padding-top: 60px; /* Place content 60px from the top */
+  transition: 0.5s; /* 0.5 second transition effect to slide in the sidenav */
+  border-radius : 10px;
+}
+
+/* The navigation menu links */
+.sidenav a {
+  text-decoration: none;
+  font-size: 15px;
+  color: white;
+  display: block;
+  transition: 0.3s;
+}
+
+/* When you mouse over the navigation links, change their color */
+.sidenav a:hover {
+  color: #556B2F;
+}
+p {
+font-family: "Bookman Old Style";
+font-size: 20px;
+padding-left: 7px;
+font-weight:normal;}
+
+#ppp{
+color : #8B4513;
+font-family: "Bookman Old Style";
+font-size: 20px;
+padding-left: 7px;
+font-weight:bold;
+}

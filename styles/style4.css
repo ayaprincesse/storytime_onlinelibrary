@@ -1,0 +1,16 @@
+table{
+	border-spacing : 0%;
+	border-collapse: collapse;
+	width : 60%;
+	align : center;
+	padding : 10px;
+margin-left : 20%;
+}
+td {
+	padding :10px;
+}
+a#addadmin{display:inline-block; margin-left : 45%; }
+.noback:hover{
+	background-color :white;
+}
+

@@ -1,0 +1,30 @@
+table {
+
+border-collapse:seperate; 
+border-spacing:1em;
+align : center;
+border: 1pt solid grey;
+    border-radius : 15px;
+    box-shadow:0px 1px 5px grey;
+	width : 100% ; 
+}
+
+#td1{
+	width: 300px;
+}
+#td2 {
+	width: 300px;
+}
+#td3 {
+	 width: 900px;
+}
+#td4 {
+	width: 400px;
+}
+.userlistebtn{
+	box-shadow:0px 1px 2px grey;
+	border : 0 ;
+	border-radius : 20px;
+	padding: 10px 10px;
+	background-color : rgb(240, 230, 140);
+}

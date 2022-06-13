@@ -1,0 +1,53 @@
+.suinput{
+	padding : 10px;
+	margin : 5px;
+}
+.suinputdescribe{
+	padding : 10px;
+	margin : 5px;
+}
+.subtn{
+	color : white;
+	background-color : maroon;
+	border-radius : 20px;
+	padding: 10px 10px;
+	margin : 10px;
+	margin-left : 100%;
+}
+main{
+	padding : 20px;
+	background-color: rgb(240, 230, 140 ,0.7);
+	width:50%;
+	margin: 0% 0% 0% 25%;
+}
+#zmain
+{
+	color : black;
+	padding : 20px;
+	background-color:  rgb(240, 230, 140 ,0.7);
+	width:30%;
+	margin: 0% 0% 0% 35%;
+}
+a{
+  color : maroon;
+  font-weight : bold;
+  padding: 10px 10px;
+  text-decoration: none;
+
+}
+a:hover 
+{
+	color : black;
+	border-radius : 20px;
+	background-color : rgb(240, 230, 140);
+  border: 1pt solid grey;
+	
+}
+#divaddadmin{
+	
+	padding : 20px;
+	background-color: rgb(240, 230, 140 ,0.7);
+	width:50%;
+	margin: 0% 0% 0% 25%;
+
+}
